@@ -1,0 +1,34 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Marcellus' Information</title>
+	  <pubDate>Fri, 28 Feb 2020 13:24:29 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Marcellus%27+Information</link>
+	  <description><pre id="diff"><ins>Hello my name is Marcellus Jonathan, i am a proud mentor :). i am 19 soon to be 20. i am not that tall and i love to game especially FPS games. Btw Michael sucks at video games anyway :)</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Michael's Information</title>
+	  <pubDate>Fri, 28 Feb 2020 13:22:32 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Michael%27s+Information</link>
+	  <description><pre id="diff"><ins>I am tall, very tall. I like to code. I am 19 and love to game. I do this not because i want to but because i have to. JK.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 13:21:45 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Hello, this is the main page! This is for our mid-test because we need grades :(. Thank you our beloved lecturer Livia Andriana Lohanda. A short description of us: [Michael's Information] and [Marcellus' Information]. Feel free to check us out. Bye.</ins>
+</pre></description>
+	</item>
+
+
+</channel>
+</rss>
