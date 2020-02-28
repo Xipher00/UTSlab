@@ -40,3 +40,18 @@
 21. open localhost/info.php in your browser
 22. sudo rm info.php
 
+## Lion Wiki
+1. sudo wget http://lionwiki.0o.cz/download/3.2.11/lionwiki-3.2.11.zip
+2. sudo unzip lionwiki-3.2.11.zip
+3. cd lionwiki-3.2.11/
+4. sudo cp -r lionwiki-3.2.11.zip /var/www/html
+5. sudo rm -rf index.html
+6. sudo rm -rf index.nginx-debian.html
+7. sudo cp -r config.php /var/www/html
+8. sudo cp -r index.php /var/www/html
+9. sudo cp -r lang /var/www/html
+10. sudo cp -r plugins /var/www/html
+11. sudo cp -r templates /var/www/html
+12. sudo cp -r var /var/www/html
+13. sudo chmod 777 ./var
+14. Now we edit the main page, add the information about ourselves on the wiki
